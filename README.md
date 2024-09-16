@@ -5,9 +5,10 @@ Este repositório contém os projetos desenvolvidos durante o bootcamp de Engenh
 
 ## Projetos
 
-* **Módulo 1: Analisando dados de um Dashboard de Vendas no Power BI**
+* **Módulo 1: Analisando dados de um Relatório de Vendas no Power BI**
 
-    * Neste módulo foi desenvolvido um Dashboard com três páginas, utilizando gráficos variados e mapas para ilustração da relação de vendas, produtos e lucros por meses/anos, produtos e localidades.
+    * Neste módulo foi desenvolvido um relatório com três páginas, utilizando gráficos variados e mapas para ilustração da relação de vendas, produtos e lucros por meses/anos, produtos e localidades.
 
+* **Módulo 2: Desenvolvendo um Relatório Avançado com Power BI**
 
-
+    * NesteO desafio realizado neste módulo foi o desenvolvimento de um relatório mais elaborado, com duas páginas interativas, aplicando e utilizando botões e imagens para facilitar a filtragem e a visualização dos dados e permitir a seleção de diferentes visuais sobre um mesmo assunto, como alternar entre tipos diferentes de gráficos e navegação entre as páginas.
