@@ -11,4 +11,4 @@ Este repositório contém os projetos desenvolvidos durante o bootcamp de Engenh
 
 * **Módulo 2: Desenvolvendo um Relatório Avançado com Power BI**
 
-    * NesteO desafio realizado neste módulo foi o desenvolvimento de um relatório mais elaborado, com duas páginas interativas, aplicando e utilizando botões e imagens para facilitar a filtragem e a visualização dos dados e permitir a seleção de diferentes visuais sobre um mesmo assunto, como alternar entre tipos diferentes de gráficos e navegação entre as páginas.
+    * O desafio realizado neste módulo foi o desenvolvimento de um relatório mais elaborado, com duas páginas interativas, aplicando e utilizando botões e imagens para facilitar a filtragem e a visualização dos dados e permitir a seleção de diferentes visuais sobre um mesmo assunto, como alternar entre tipos diferentes de gráficos e navegação entre as páginas.
