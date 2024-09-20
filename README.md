@@ -16,5 +16,12 @@ Este repositório contém os projetos desenvolvidos durante o bootcamp de Engenh
 
 * **Módulo 3: Projeto de Criação de Banco de Dados e Transformação de Dados no Power BI**
 
-	*Neste projeto realizei a construção do banco de dados company, seguindo as diretrizes designadas no desafio, e a  transformação de dados no Power BI. Neste módulo tive a oportunidade de corrigir colunas com dados incorretos, modificar valores, verificar e analisar valores nulos, substituindo e corrigindo os dados conforme necessário. Também realizei a criação de tabelas, mesclando-as, eliminação e mesclagem de colunas para criar combinações únicas, tudo isso com o objetivo de garantir um relatório final claro e preciso. O passo a passo e relatório de atividades realizadas estão no arquivo em .pdf dentro da pasta deste módulo.
+	* Neste projeto realizei a construção do banco de dados company, seguindo as diretrizes designadas no desafio, e a  transformação de dados no Power BI. Neste módulo tive a oportunidade de corrigir colunas com dados incorretos, modificar valores, verificar e analisar valores nulos, substituindo e corrigindo os dados conforme necessário. Também realizei a criação de tabelas, mesclando-as, eliminação e mesclagem de colunas para criar combinações únicas, tudo isso com o objetivo de garantir um relatório final claro e preciso. O passo a passo e relatório de atividades realizadas estão no arquivo em .pdf dentro da pasta deste módulo.
 
+* **Módulo 4: Star Schema, Modelagem e Transformação de dados com DAX no Power BI**
+
+	* Neste  módulo foram realizados dois projetos:
+
+        * O primeiro projeto consiste em um esquema estrela (star schema) para cenários de Vendas com Power BI, porém, com dados de  uma instituição de ensino em que a tabela fato estipulada é a tabela Professor, que deverá ter como tabelas dimensões as tabelas Departamento, Curso, Disciplina e uma tabema Datas, para proporcionar a opção posterior de manupulação de dados com base em datas significativas. As tabelas foram criadas com linquagem SQL na ferramenta DBeaver CE e o diagrama resultante pode ser consultado na pasta Módulo 4/Star Schema Professor.
+
+        * O segundo projeto refere-se a Modelagem e Transformação de dados com DAX no Power BI. Neste projeto foram criadas as tabelas fato Vendas suas respectivas tabelas dimensões, derivando-as da sample financials, também criei a tabela Calendar por meio de funções DAX na plataforma do Power BI, e estabeleci os relacionamentos de acordo com o star schema. O arquivo .pbix pode ser analisado na pasta Módulo 4/Modelagem e Transformação com DAX, também deixei um arquivo .png para visualização do diagrama desta modelagem.
