@@ -25,3 +25,12 @@ Este repositório contém os projetos desenvolvidos durante o bootcamp de Engenh
         * O primeiro projeto consiste em um esquema estrela (star schema) para cenários de Vendas com Power BI, porém, com dados de  uma instituição de ensino em que a tabela fato estipulada é a tabela Professor, que deverá ter como tabelas dimensões as tabelas Departamento, Curso, Disciplina e uma tabema Datas, para proporcionar a opção posterior de manupulação de dados com base em datas significativas. As tabelas foram criadas com linquagem SQL na ferramenta DBeaver CE e o diagrama resultante pode ser consultado na pasta Módulo 4/Star Schema Professor.
 
         * O segundo projeto refere-se a Modelagem e Transformação de dados com DAX no Power BI. Neste projeto foram criadas as tabelas fato Vendas suas respectivas tabelas dimensões, derivando-as da sample financials, também criei a tabela Calendar por meio de funções DAX na plataforma do Power BI, e estabeleci os relacionamentos de acordo com o star schema. O arquivo .pbix pode ser analisado na pasta Módulo 4/Modelagem e Transformação com DAX, também deixei um arquivo .png para visualização do diagrama desta modelagem.
+
+
+* **Módulo 5: Data Analytics & Storytelling com Power BI**
+
+	* Neste  módulo foram realizados dois projetos:
+
+        * Neste primeiro projeto remodelei o projeto desenvolvido no módulo 2, para se adequar à proporção áurea, com ênfase no posicionamento, contraste e segmentação dos dados, sendo tudo pensado e desenvolvido com o objetivo de melhorar a experiência do usuário. Também criei mais uma página de relatório, acrescentando botões de interação entre as páginas e obtendo uma melhor segmentação e apresentação dos dados.
+
+        * No segundo projeto foi utilizada todas as técnicas aprendidas neste curso, realizando a modelagem com a aplicação de diversos recursos para que este relatório fossese tornasse totalmente interativo e funcional. O arquivo .pbix pode ser analisado na pasta Módulo 5/Desafio 2!
